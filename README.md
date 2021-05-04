@@ -21,8 +21,20 @@ If you want to execute this code, please follow this process:
 eda-plant-pathology-2021.ipynb
 new-eda.ipynb
 ```
-These two are used to data expansion. The first is the version of pixel+spatial transform and the second is the only spatial level transform.After downloading the data from kaggle, you can execute these two first.
-
+These two are used to data expansion. The first is the version of pixel+spatial transform and the second is the only spatial level transform.After downloading the data from kaggle, you can execute these two first.  
+```
+resnet.ipynb
+vgg-v1.ipynb
+```
+These two notebook are used to execute the resnet model and vgg model  
+```
+model-conbination.ipynb
+```
+This notebook combines the vgg ang resnet using ensemble model.
+```
+failed-ensemble.ipynb
+```
+This notebook is for final submission
 ## Final Group Presentation  
 This folder includs a pdf file named 'Final-Group-Presentation.pdf'.  
 
