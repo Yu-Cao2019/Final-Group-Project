@@ -35,6 +35,7 @@ This notebook combines the vgg ang resnet using ensemble model.
 failed-ensemble.ipynb
 ```
 This notebook is for final submission
+***
 ## Final Group Presentation  
 This folder includs a pdf file named 'Final-Group-Presentation.pdf'.  
 
